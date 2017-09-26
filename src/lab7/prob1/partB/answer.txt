@@ -1,0 +1,1 @@
+the method: public boolean equals(Employee e) is wrong override, it should be public boolean equals(Object e)

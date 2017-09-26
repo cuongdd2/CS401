@@ -1,0 +1,5 @@
+ArrayList has 4 interfaces: List, RandomAccess, Clonable, Serializable
+The List interface extends from Collection which extends from Iterable interface
+
+ArrayList extends one abstract class: AbstractList
+

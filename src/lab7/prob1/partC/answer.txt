@@ -1,0 +1,1 @@
+HashMap.containsKey() return false because Employee doesn't implement hashCode() method.

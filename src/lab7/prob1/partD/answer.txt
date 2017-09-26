@@ -1,0 +1,2 @@
+Employee in tracker HashMap is set visited value so same Employee name, salary but different visited value is put to list.
+In equals() method object compare name, salary and visited properties

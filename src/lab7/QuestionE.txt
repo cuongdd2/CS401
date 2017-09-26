@@ -1,0 +1,3 @@
+a. If D is a class, that means B or C, one of them is class, the other must be interface. Both B and C has method(), D will use class's method.
+b. If D is a class, B and C can both be interface, D need to implement its own method()
+c. If D is an interface, B and C can must be interface. Because interface cannot extends/implements class. Both B and C has method(). So D need has method(), implement or not.
